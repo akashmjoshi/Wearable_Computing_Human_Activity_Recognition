@@ -1,4 +1,4 @@
-# Wearable-Computing-Human-Activity-Recognition
+# Wearable_Computing_Human_Activity_Recognition
 # Absract
 Human Activity Recognition has emerged as one of the key research areas in the past decade. We have seen HAR being used in thegaming industry a lot. Most of the animation we see its done using human activity recognition. Cameras and Video capturing have been done to do human activity recognition. 
 
